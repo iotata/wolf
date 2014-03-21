@@ -18,7 +18,7 @@ class Person
 
 end
 
-a = Person.new("Антон", "Агеев", "Юрьевич")
+a = Person.new("Петр", "Агеев", "Юрьевич")
 puts a.full_name
 puts a.short_name
 puts
